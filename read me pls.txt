@@ -1,0 +1,10 @@
+install python 3.6 or higher
+
+then run 
+pip install pandas
+pip insall numpy
+pip install matplotlib
+
+in yur teminal
+
+only then it will work
